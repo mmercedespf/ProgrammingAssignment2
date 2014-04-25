@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Well I'm not quite sure if this code will work out...
+## this is suposed to ... do something.
 
 ## Write a short comment describing this function
 
